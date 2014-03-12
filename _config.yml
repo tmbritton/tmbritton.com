@@ -1,0 +1,8 @@
+name: Thomas Britton                              
+subhead: Artist/Coder Austin TX
+markdown: redcarpet
+pygments: true
+twitter: tmbritton
+github: tmbritton
+gems:
+- jekyll-compass

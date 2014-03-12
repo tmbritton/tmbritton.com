@@ -1,0 +1,9 @@
+--- 
+require: 
+- jekyll-compass
+http_path: /
+css_dir: css
+project_path: /Users/tmbritton/Sites/tmbritton.com-jekyll/
+sass_dir: _sass
+javascripts_dir: javascripts
+images_dir: images
