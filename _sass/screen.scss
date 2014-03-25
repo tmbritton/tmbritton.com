@@ -3,6 +3,27 @@
  * Import this file using the following HTML or equivalent:
  * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
 
-@import "compass/reset";
+//Compass imports
+@import "_normalize.scss"; //compass-normalize Ruby gem
+@import "compass/css3/opacity";
+@import "compass/css3/border-radius";
+@import "compass/css3/transition";
 
-@import "partials/_syntax";
+//Utilities
+@import "partials/utilities/_variables";
+@import "partials/utilities/_mixins";
+@import "partials/utilities/_fontface";
+@import "partials/utilities/_baselayout";
+@import "partials/utilities/_syntax";
+@import "partials/utilities/font-awesome/_font-awesome";
+@import "partials/utilities/_patternlib";
+
+//Quarks
+@import "partials/quarks/_text";
+@import "partials/quarks/_lists";
+@import "partials/quarks/_forms";
+@import "partials/quarks/_tables";
+@import "partials/quarks/_icons";
+
+//Molecules
+@import "partials/molecules/_header"

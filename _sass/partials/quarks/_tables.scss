@@ -1,0 +1,33 @@
+table {
+  width: 100%;
+  border-collapse: collapse;
+  thead {
+    th {
+      background-color: $grayaccent;
+      border: 1px solid $basetext;
+      color: #fff;
+      padding: 3px;
+      text-align: left;
+    }
+  }
+  tfoot {
+    th {
+      background-color: #fff;
+      padding: 3px;
+      border: 1px solid $grayaccent;
+      text-align: left;
+    }
+  }
+  tbody {
+    td {
+      border: 1px solid $grayaccent;
+      background-color: #fff;
+      padding: 3px;
+    }
+    tr:nth-child(even) {
+      td {
+        background-color: $lightgray;
+      }   
+    }
+  }
+}

@@ -1,0 +1,24 @@
+.icon-link {
+  background: $grayaccent;
+  padding: 3px 5px;
+  @include animate;
+  @include border-radius(5px);
+  i {
+    @include animate;
+    color: $lightgray;
+  }
+  &:hover {
+    background: darken($grayaccent, 10%);
+    i {
+      color: lighten($lightgray, 10%);
+    }
+  }
+  &.twitter {
+    &:hover {
+      background: #292f33;
+      i {
+        color: #55acee;
+      }
+    }
+  }
+}

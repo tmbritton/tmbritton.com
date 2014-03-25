@@ -1,0 +1,44 @@
+body {
+  font-family: $bodyfont;
+  text-shadow: 0 0 0 #000;
+  @include opacity(99);
+  color: $basetext;
+  background: #fff url('/assets/img/theme/cream_pixels.png') top left repeat;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $headingfont;
+  text-shadow: none;
+}
+
+dt {
+  font-size: 1.17em;
+  font-weight:bold;
+}
+
+dd {
+  margin: 0 0 1em 0;
+}
+
+blockquote {
+  max-width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  p {
+    font-family: $accentfont;
+    color: $grayaccent;
+    font-size: 1.4em;
+  }
+}
+
+a {
+  @include animate;
+  color: $link;
+  &:hover {
+    color: $basered;
+  }
+}
+
+legend {
+  font-family: $headingfont;
+}

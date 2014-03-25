@@ -1,0 +1,4 @@
+@mixin animate {
+  transition-property: color, background-color, opacity;
+  transition-duration: .4s;
+}

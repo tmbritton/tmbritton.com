@@ -1,8 +1,11 @@
 name: Thomas Britton                              
-subhead: Artist/Coder Austin TX
+subhead: "Artist/Coder, Austin, TX"
+description: "Blog, portifolio, art, and items of general interest that Thomas Britton wishes to be known about himself."
 markdown: redcarpet
 pygments: true
+permalink: /blog/:title.html
 twitter: tmbritton
 github: tmbritton
 gems:
 - jekyll-compass
+- compass-normalize

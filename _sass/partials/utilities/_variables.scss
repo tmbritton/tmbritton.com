@@ -1,0 +1,12 @@
+$headingfont: ChunkFive, Impact, Haettenschweiler, "Arial Black", sans-serif;
+$bodyfont: "Gill Sans", "Gill Sans MT", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$accentfont: "Poiret One", cursive;
+
+//Colors
+$basetext: #333;
+$grayaccent: lighten($basetext, 20%);
+$lightgray: #eee;
+$extradark: darken($basetext, 10%);
+$basered: #a8251e;
+$link: darken($basered, 10%);
+$basegreen: #085B28;

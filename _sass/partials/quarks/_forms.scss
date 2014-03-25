@@ -1,0 +1,56 @@
+fieldset {
+  background: $lightgray url('/assets/img/theme/squairy_light.png') top left repeat;
+  margin-bottom: 2em;
+}
+label {
+  display: block;
+}
+input {
+  display: block;
+  border: 1px solid $basetext;
+  min-width: 25%;
+  margin-bottom: 1em;
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+textarea {
+  min-width: 50%;
+  margin-bottom: 1em;
+}
+abbr[title="Required"] {
+  color: $basered;
+  border-bottom: 0 none;
+}
+
+label.error {
+  color: $basered;
+}
+input.error {
+  border: 1px solid $basered;
+}
+input[type="checkbox"], input[type="radio"] {
+  display: inline;
+}
+label.valid {
+  color: $basegreen;
+}
+input.valid {
+  border: 1px solid $basegreen;
+}
+label.help {
+  color: $grayaccent;
+  font-size: .8em;
+}
+select {
+  min-width: 25%;
+}
+input[type="submit"] {
+  @include animate;
+  border: 0 none;
+  background-color: $basetext;
+  color: #fff;
+  &:hover {
+    background-color: darken($basetext, 10%);
+  }
+}

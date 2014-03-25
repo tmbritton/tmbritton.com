@@ -1,6 +1,7 @@
 --- 
 require: 
 - jekyll-compass
+- compass-normalize
 http_path: /
 css_dir: css
 project_path: /Users/tmbritton/Sites/tmbritton.com-jekyll/
