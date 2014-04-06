@@ -1,7 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
+status: draft
+published: false
 title: How to Make a Static FBML Facebook Page Tab
 author: tmbritton
 author_login: tmbritton
@@ -18,26 +18,6 @@ tags:
 - kickstarter
 - sky candy
 - tutorial
-comments:
-- id: 0
-  author: Floremua
-  author_email: ou.tf.ei.t.i.a.ncl@gmail.com
-  author_url: ''
-  date: '2014-01-04 08:53:05 -0600'
-  date_gmt: '2014-01-04 08:53:05 -0600'
-  content: "<a href=\"http://www.succeed-clinic.org/cl/index.php?512-christian\" rel=\"nofollow\">red
-    solde louboutin chaussure</a>\r\n<a href=\"http://www.succeed-clinic.org/cl/index.php?1743-christian\"
-    rel=\"nofollow\">red chaussures a prix discount</a>\r\n<a href=\"http://www.succeed-clinic.org/cl/index.php?340-christian\"
-    rel=\"nofollow\">red louboutin marseille</a>\r\n \r\n<a href=\"http://www.succeed-clinic.org/cl/index.php?582-christian\"
-    rel=\"nofollow\">red magasin chaussure homme</a>\r\n<a href=\"http://www.succeed-clinic.org/cl/index.php?185-christian\"
-    rel=\"nofollow\">red escarpins guess</a>\r\n \r\n<a href=\"http://www.succeed-clinic.org/cl/index.php?206-christian\"
-    rel=\"nofollow\">red magasin de chaussures en ligne</a>\r\n \r\n \r\n<a href=\"http://www.succeed-clinic.org/cl/index.php?214-christian\"
-    rel=\"nofollow\">red chaussures hommes</a>\r\n<a href=\"http://www.succeed-clinic.org/cl/index.php?573-christian\"
-    rel=\"nofollow\">red magasin chaussures en ligne</a>\r\n<a href=\"http://www.succeed-clinic.org/cl/index.php?365-christian\"
-    rel=\"nofollow\">red louboutin pas cher france</a>\r\n \r\n<a href=\"http://www.succeed-clinic.org/cl/index.php?570-christian\"
-    rel=\"nofollow\">red christian louboutin boutique</a>\r\n<a href=\"http://www.succeed-clinic.org/cl/index.php?1715-christian\"
-    rel=\"nofollow\">red chassure pas cher</a>\r\n \r\n<a href=\"http://www.succeed-clinic.org/cl/index.php?828-christian\"
-    rel=\"nofollow\">red vetement pas cher</a>"
 ---
 <p>Looking for a way to differentiate yourself from among the sea of blue shaded Facebook business pages?  Looking for a way to make your brand identity prominent on your Facebook page?  Tired of looking like every other page on Facebook?  Making a page tab is an easy way to add some visual interest and make a statement on Facebook.</p>
 <p>Let's look at a couple of examples.  Here's a <a href="http://www.facebook.com/wholefoods?v=app_10442206389&amp;ref=ts">recipe tab from Whole Foods Market</a>.  Notice how they use their own color palette but retain Facebook's font families so that the tab has it's own personality yet doesn't look completely separate from the surrounding Facebook layout.  Here's another <a href="http://www.facebook.com/cocacola#!/cocacola?v=app_161193133389">example from Coca Cola</a>.  They use the canvas page as their landing page for their Facebook page to put their brand identity on full display as soon as people arrive at their page.</p>

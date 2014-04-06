@@ -3,6 +3,9 @@ layout: post
 status: publish
 published: true
 title: Back By Popular Demand
+subtitle: I've built up a backlog of paintings, so I'm gonna clear out some inventory.
+image: audrey-hepburn.jpg
+nav: blog
 author: tmbritton
 author_login: tmbritton
 author_email: britton.tm@gmail.com

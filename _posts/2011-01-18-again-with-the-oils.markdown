@@ -3,6 +3,9 @@ layout: post
 status: publish
 published: true
 title: Again with the Oils
+subtitle: "Tonight I brought out the oil paints again at the AFG.  It had been  a while since I'd actually done a figure painting."
+image: AFG-1-17-11.jpg
+nav: blog
 author: tmbritton
 author_login: tmbritton
 author_email: britton.tm@gmail.com
@@ -20,4 +23,4 @@ tags:
 comments: []
 ---
 <p>Tonight I brought out the oil paints again at the AFG.  It had been  a while since I'd actually done a figure painting.  I wasn't sure I'd remember how.  It had been so long that when I got there my Gamsol was dry so I had not thinner.  This forced me to paint thicker than I normally, which I think was good.  It's always good to do things a bit differently if you're in a rut.  We had a single pose the entire time, so I had a couple of hours to work on this painting.</p>
-<p>[caption id="attachment_462" align="aligncenter" width="265" caption="Figure Painting at the AFG"]<a href="/assets/img/2011/01/AFG-1-17-11.jpg"><img class="size-medium wp-image-462" title="Figure Painting at the AFG" src="/assets/img/2011/01/AFG-1-17-11-265x300.jpg" alt="Figure Painting at the AFG" width="265" height="300" /></a>[/caption]</p>
+<p><a href="/assets/img/2011/01/AFG-1-17-11.jpg"><img class="size-medium wp-image-462" title="Figure Painting at the AFG" src="/assets/img/2011/01/AFG-1-17-11-265x300.jpg" alt="Figure Painting at the AFG" width="265" height="300" /></a></p>

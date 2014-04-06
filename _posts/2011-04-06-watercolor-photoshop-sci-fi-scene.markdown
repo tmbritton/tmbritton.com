@@ -10,7 +10,7 @@ wordpress_id: 547
 wordpress_url: http://www.tmbritton.com/?p=547
 date: '2011-04-06 23:41:37 -0500'
 date_gmt: '2011-04-07 04:41:37 -0500'
-image: 040611-2.jpg
+image: cockpit.jpg
 nav: blog
 subtitle: I'm still digging it.
 categories:
