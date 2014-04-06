@@ -9,3 +9,46 @@ github: tmbritton
 gems:
 - jekyll-compass
 - compass-normalize
+- jekyll-retinamagick
+retinamagick:
+  thumbnail:
+    source: assets/img/header/_original
+    destination: assets/img/header/thumbnail
+    resize: "50x50"
+  320x340:
+    source: assets/img/header/_original
+    destination: assets/img/header/320x340
+    resize: "320x340"
+  480x330:
+    source: assets/img/header/_original
+    destination: assets/img/header/480x330
+    resize: "480x330"
+  768x416:
+    source: assets/img/header/_original
+    destination: assets/img/header/768x416
+    resize: "768x416"
+  1024x493:
+    source: assets/img/header/_original
+    destination: assets/img/header/1024x493
+    resize: "1024x493"
+  1280x561:
+    source: assets/img/header/_original
+    destination: assets/img/header/1280x561
+    resize: "1280x561"
+  1366x587:
+    source: assets/img/header/_original
+    destination: assets/img/header/1366x587
+    resize: "1366x587"
+  1680x681:
+    source: assets/img/header/_original
+    destination: assets/img/header/1680x681
+    resize: "1680x681"
+exclude:
+  - "bin"
+  - "*.rb"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "Procfile"
+  - "*.map"
+  - "*.swp"
+  - "README.md"

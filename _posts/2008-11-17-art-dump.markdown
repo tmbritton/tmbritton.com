@@ -1,0 +1,32 @@
+---
+layout: post
+status: publish
+published: true
+title: Art Dump
+author: tmbritton
+author_login: tmbritton
+author_email: britton.tm@gmail.com
+wordpress_id: 58
+wordpress_url: http://www.tmbritton.com/?p=58
+date: '2008-11-17 23:11:37 -0600'
+date_gmt: '2008-11-18 06:11:37 -0600'
+categories:
+- New Drawings
+tags: []
+comments: []
+---
+<p>I'm not even going to attempt to generate enough text to balance these images.  This is what happens if I don't post stuff immediately after  making it.   It builds up on me quickly.  This is stuff from the past week or so.</p>
+<p><a class="tt-flickr tt-flickr-Medium" title="111308-1" href="http://www.tmbritton.com/art/photo/3029395946/111308-1.html"><img class="alignnone" src="http://farm4.static.flickr.com/3175/3029395946_23f254aab2.jpg" alt="111308-1" width="500" height="373" /></a></p>
+<p><a class="tt-flickr tt-flickr-Medium" title="111308-2" href="http://www.tmbritton.com/art/photo/3029395906/111308-2.html"><img class="alignnone" src="http://farm4.static.flickr.com/3280/3029395906_3fe152862d.jpg" alt="111308-2" width="500" height="370" /></a></p>
+<p><a class="tt-flickr tt-flickr-Medium" title="111308-3" href="http://www.tmbritton.com/art/photo/3028560817/111308-3.html"><img class="alignnone" src="http://farm4.static.flickr.com/3173/3028560817_8fe0292e0f.jpg" alt="111308-3" width="368" height="500" /></a></p>
+<p><a class="tt-flickr tt-flickr-Medium" title="111308-4" href="http://www.tmbritton.com/art/photo/3029395852/111308-4.html"><img class="alignnone" src="http://farm4.static.flickr.com/3007/3029395852_5ffddc99e4.jpg" alt="111308-4" width="389" height="500" /></a></p>
+<p><a class="tt-flickr tt-flickr-Medium" title="111308-5" href="http://www.tmbritton.com/art/photo/3028560711/111308-5.html"><img class="alignnone" src="http://farm4.static.flickr.com/3074/3028560711_8b590429ed.jpg" alt="111308-5" width="500" height="372" /></a></p>
+<p><a class="tt-flickr tt-flickr-Medium" title="111708-9" href="http://www.tmbritton.com/art/photo/3039673031/111708-9.html"><img class="alignnone" src="http://farm4.static.flickr.com/3165/3039673031_5d7448afbf.jpg" alt="111708-9" width="363" height="500" /></a></p>
+<p><a class="tt-flickr tt-flickr-Medium" title="111708-8" href="http://www.tmbritton.com/art/photo/3039672999/111708-8.html"><img class="alignnone" src="http://farm4.static.flickr.com/3057/3039672999_bf2ebb3e0e.jpg" alt="111708-8" width="363" height="500" /></a></p>
+<p><a class="tt-flickr tt-flickr-Medium" title="111708-4" href="http://www.tmbritton.com/art/photo/3040511204/111708-4.html"><img class="alignnone" src="http://farm4.static.flickr.com/3023/3040511204_14e8b4c737.jpg" alt="111708-4" width="372" height="500" /></a></p>
+<p><a class="tt-flickr tt-flickr-Medium" title="111708-5" href="http://www.tmbritton.com/art/photo/3039672855/111708-5.html"><img class="alignnone" src="http://farm4.static.flickr.com/3251/3039672855_d2e6944008.jpg" alt="111708-5" width="363" height="500" /></a></p>
+<p><a class="tt-flickr tt-flickr-Medium" title="111708-6" href="http://www.tmbritton.com/art/photo/3039672893/111708-6.html"><img class="alignnone" src="http://farm4.static.flickr.com/3057/3039672893_d15f0582c3.jpg" alt="111708-6" width="363" height="500" /></a></p>
+<p><a class="tt-flickr tt-flickr-Medium" title="111708-7" href="http://www.tmbritton.com/art/photo/3039672967/111708-7.html"><img class="alignnone" src="http://farm4.static.flickr.com/3072/3039672967_bdab1a9969.jpg" alt="111708-7" width="500" height="337" /></a></p>
+<p><a class="tt-flickr tt-flickr-Medium" title="111708-1" href="http://www.tmbritton.com/art/photo/3040511102/111708-1.html"><img class="alignnone" src="http://farm4.static.flickr.com/3148/3040511102_c02f6ee19e.jpg" alt="111708-1" width="384" height="500" /></a></p>
+<p><a class="tt-flickr tt-flickr-Medium" title="111708-2" href="http://www.tmbritton.com/art/photo/3040511140/111708-2.html"><img class="alignnone" src="http://farm4.static.flickr.com/3028/3040511140_89e8aaa300.jpg" alt="111708-2" width="363" height="500" /></a></p>
+<p><a class="tt-flickr tt-flickr-Medium" title="111708-3" href="http://www.tmbritton.com/art/photo/3040511174/111708-3.html"><img class="alignnone" src="http://farm4.static.flickr.com/3233/3040511174_5799643ec8.jpg" alt="111708-3" width="363" height="500" /></a></p>

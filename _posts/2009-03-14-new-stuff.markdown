@@ -1,0 +1,20 @@
+---
+layout: post
+status: publish
+published: true
+title: New Stuff
+author: tmbritton
+author_login: tmbritton
+author_email: britton.tm@gmail.com
+wordpress_id: 166
+wordpress_url: http://www.tmbritton.com/?p=166
+date: '2009-03-14 23:30:41 -0500'
+date_gmt: '2009-03-15 06:30:41 -0500'
+categories:
+- Digital Art
+tags: []
+comments: []
+---
+<p>So I've been neglecting my online presence in favor of my social life recently.  No More!  Pixels will bring me happiness.</p>
+<p><a class="tt-flickr tt-flickr-Medium" title="030309-1" href="http://www.tmbritton.com/art/photo/3355915390/030309-1.html"><img class="alignnone" src="http://farm4.static.flickr.com/3571/3355915390_3f4d614418.jpg" alt="030309-1" width="403" height="500" /></a></p>
+<p><a class="tt-flickr tt-flickr-Medium" title="031409-1" href="http://www.tmbritton.com/art/photo/3355095997/031409-1.html"><img class="alignnone" src="http://farm4.static.flickr.com/3642/3355095997_11527dc620.jpg" alt="031409-1" width="500" height="500" /></a></p>

@@ -8,6 +8,8 @@
 @import "compass/css3/opacity";
 @import "compass/css3/border-radius";
 @import "compass/css3/transition";
+@import "compass/utilities/general/clearfix";
+@import "compass/css3/inline-block";
 
 //Utilities
 @import "partials/utilities/_variables";
@@ -26,4 +28,7 @@
 @import "partials/quarks/_icons";
 
 //Molecules
-@import "partials/molecules/_header"
+@import "partials/molecules/_header";
+@import "partials/molecules/_post-list";
+@import "partials/molecules/_nav";
+@import "partials/molecules/_blog-post"

@@ -1,8 +1,11 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
+subtitle: "This is a short subtitle/description of the post.  It should be maybe a couple of sentences long."
 date:   2014-03-11 23:12:00
+nav: blog
 categories: blog
+image: default.jpg
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!

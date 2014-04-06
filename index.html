@@ -1,13 +1,26 @@
 ---
 layout: default
 title: Blog
+nav: blog
 ---
 
 <div id="main">
-  <h1>Blog Posts</h1>
-  <ul class="posts">
+  <div id="posts">
     {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+      <article>
+          <h2>
+            <a href="{{ post.url }}">{{ post.title }}</a>
+          </h2>
+          {% if post.subtitle %}
+            <p class="subtitle">{{ post.subtitle }}</p>
+          {% endif %}<!--post.subtitle-->
+          {% if post.image %}
+            <a class="imglink" href="{{ post.url }}">
+              <img class="thumbnail" src="/assets/img/header/thumbnail/{{ post.image }}" alt="{{ post.title }}" />
+            </a>
+          {% endif %}<!--post.image-->
+        <time datetime="{{ post.date }}">{{ post.date | date_to_long_string }}</time>
+      </article>
     {% endfor %}
-  </ul>
+  </div>
 </div>

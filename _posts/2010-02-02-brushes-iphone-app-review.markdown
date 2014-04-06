@@ -1,0 +1,36 @@
+---
+layout: post
+status: publish
+published: true
+title: Brushes iPhone App Review
+author: tmbritton
+author_login: tmbritton
+author_email: britton.tm@gmail.com
+wordpress_id: 305
+wordpress_url: http://www.tmbritton.com/?p=305
+date: '2010-02-02 01:07:26 -0600'
+date_gmt: '2010-02-02 06:07:26 -0600'
+categories:
+- Digital Art
+- Product Review
+tags:
+- brushes
+- digital
+- figure
+- iphone
+- nude
+- painting
+- review
+- software
+comments: []
+---
+<p><a class="tt-flickr tt-flickr-Medium" title="iPhone Figure Painting" href="http://www.tmbritton.com/art/photo/4323713041/iphone-figure-painting.html"><img class="float-right" src="http://farm5.static.flickr.com/4023/4323713041_774b82e1a6.jpg" alt="iPhone Figure Painting" width="320" height="480" /></a> So I got an iPhone last week.  I know, douchebag move.  What's next?  Buying a SUV?  Maybe a 300 square foot downtown condo for $300K?  Wearing polo shirts and trousers?  But it turns out the damn thing is handy.  One thing that really pushed me over the edge and made me break down and buy it was the <a href="http://brushesapp.com/">Brushes app</a>.  I saw some examples and it looked like people who knew what they were doing could get some good results.  That of course meant I had to spend $300 on a phone and $5 on a program.</p>
+<p>I went to my usual Monday night figure drawing session at the <a href="http://www.austinfigurative.com">AFG</a> tonight.  But I was in a rush in the morning and forgot to pack my art gear.  But this provided the opportunity to finally spend a couple of hours with the new app.  I figured I should be able to turn something decent out with it.  I've been doing regular figure drawing and painting session for almost couple of years now.  I've done a fair amount of digital painting with <a href="http://en.wikipedia.org/wiki/Adobe_Photoshop">Photoshop</a> and <a href="http://en.wikipedia.org/wiki/Corel_painter">Painter</a>.  I thought I was fairly well qualified to take the software for a spin.</p>
+<p><a class="tt-flickr tt-flickr-Medium" title="iPhone Figure Painting" href="http://www.tmbritton.com/art/photo/4324449228/iphone-figure-painting.html"><img class="float-right" src="http://farm5.static.flickr.com/4033/4324449228_780e7cafd3.jpg" alt="iPhone Figure Painting" width="320" height="480" /></a> So it was pretty good overall.  There are limitations compared to the multi-hundred dollar software, of course.  But as they saw about cameras, what's the best digital painting software?  The one you have with you.  The biggest issue would be the lack of pressure sensitivity.  Now, that's a hardware restriction.  Not Brushes fault.  Nothing to be done there.  It's stripped pretty much to the bare bones that could provide a decent painting experience.  Trimming the fat, I say.  I read a couple of reviews before starting to write this one.  They both mention that the lack of a smudge tool was frustrating.  Now, nobody who knows what they're doing uses a smudge tool in digital painting, except maybe for novelty.  You blend using opacity and this one of the main variables in the brushes in Brushes.  We're limited to four layers and they lack blending modes.  Honestly, if there's no blending modes what do we need layers for anyway?  It would be very useful to have Multiply and Overlay layers.  We don't have the preponderance of brush option that Photoshop and Painter has, but there was a nice simulated natural-looking bristle brush that I made use of.  All of the brush options in the other two programs just tend to confuse anyway.</p>
+<p><a href="http://www.tmbritton.com/art/photo/4323713319/iphone-figure-painting.html" class="tt-flickr tt-flickr-Medium" title="iPhone Figure Painting"><img class="alignnone" src="http://farm3.static.flickr.com/2711/4323713319_2827e44e4d.jpg" alt="iPhone Figure Painting" width="480" height="320" /></a></p>
+<p> <a href="http://www.tmbritton.com/art/photo/4324449538/iphone-figure-painting.html" class="tt-flickr tt-flickr-Medium" title="iPhone Figure Painting"><img class="float-right" src="http://farm5.static.flickr.com/4022/4324449538_faa18d4934.jpg" alt="iPhone Figure Painting" width="320" height="480" /></a> Painting with my finger was a bit unusual as well.  This was my first night messing with it though.  With practice I'll get more used to it.  My fingers feel a bit large for detail work also.  There's a stylus that can be used with the iPhone that might be handy for drawing with, but I'll see how the finger comes along first.  I don't want to start carry around accessories.  Defeats the purpose of portability.  Plus, what kinda dork uses a stylus with their iPhone?  I think I was able to get some decent results.  I found that by zooming far in and taking the brush down to 3 pixels I was able to do some detail work in the faces.</p>
+<p>Exporting the images is a bit of a hassle.  There's an exporting program for the Mac that can grab the images at a decent resolution, 1920 x 2880.  That's enough pixels for a standard printed page.  But any other method of getting them off the iPhone results in an image that is the screen resolution of the iPhone, 320 x 480.  Tiny.</p>
+<p><a href="http://www.tmbritton.com/art/photo/4324449666/iphone-figure-painting.html" class="tt-flickr tt-flickr-Medium" title="iPhone Figure Painting"><img class="float-right" src="http://farm5.static.flickr.com/4057/4324449666_3122c9ba76.jpg" alt="iPhone Figure Painting" width="320" height="480" /></a> My work computer is a Mac, so I'll have to wait until I have some downtime there to export the large images.  What would be nice would be if I could add the full resolution image to the camera roll of the iPhone and the use <a href="https://www.dropbox.com/">Dropbox</a> to get it onto another computer.  You can also export videos of the painting, which is pretty cool.  It would be nice to see the working process of somebody who knows what they're doing.  I'll post mine up at some point, not that I know what I'm doing.</p>
+<p>Another question I have, is why raster images?  We're already recording the strokes for the video, why not export a vector image?  We have a stroke, it's attributes are path, length, opacity, color, pattern, etc...  It would seem that these are all things that could be recorded in a svg file.  Now, that would be a game changer if this thing could do vector images.  This would allow us to do prints of any size.  This would be something that Photoshop and Painter cannot do.  This would move this beyond the realm of a neat little app and into something that would be considered for professional use.</p>
+<p>In all, I'd say it's a neat little program that you can get nice result with.  I've posted the images I came up with tonight.  These were all 15 minute poses.  I'd say that they're not bad images considering I was working with an unfamiliar interface and input device.  Definitely worth $5 if you have an iPhone and any interest in drawing.</p>
+<p><a href="http://www.tmbritton.com/art/photo/4323713757/iphone-figure-painting.html" class="tt-flickr tt-flickr-Medium" title="iPhone Figure Painting"><img class="alignnone" src="http://farm3.static.flickr.com/2687/4323713757_d1bbffb4db.jpg" alt="iPhone Figure Painting" width="320" height="480" /></a> </p>

@@ -3,15 +3,21 @@
   -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
  }
 
+img {
+  max-width:100%;
+  height:auto;
+}
+
 #main {
-  max-width: 1000px;
+  max-width: 640px;
   padding: 0 20px;
-  margin: 0 auto;
+  margin: 0 auto 3em auto;
 }
 
 header {
   text-align: center;
   background: $basetext url('/assets/img/theme/binding_dark.png') top left repeat;
+  margin: 0 0 3em 0;
   h1 { 
     margin: 0;
   }
@@ -29,4 +35,9 @@ hr.dashes {
   background: transparent url('/assets/img/theme/dash.png') top left repeat-x;
   height: 4px;
   border: 0 none;
+}
+
+.imglink {
+  text-decoration: none;
+  border-bottom: 0;
 }

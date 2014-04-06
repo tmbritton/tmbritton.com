@@ -6,14 +6,55 @@
     <title>{{ page.title }} | {{ site.name }} | {{ site.subhead }}</title>
     <meta name="viewport" content="width=device-width">
     <meta name="description" content="{{ site.description }}">
+    <link rel="icon" type="image/png" href="/favicon.png">
     <link rel="stylesheet" href="/css/screen.css">
     <link href='http://fonts.googleapis.com/css?family=Poiret+One' rel='stylesheet' type='text/css'>
+    <style type="text/css">
+      header {
+        background: #222 url('/assets/img/header/320x340/{{ page.image }}') center no-repeat;
+      }
+      @media(min-width: 321px) {
+        header {
+          background-image: url('/assets/img/header/480x330/{{ page.image }}');
+        }
+      }
+      @media(min-width: 481px) {
+        header {
+          background-image: url('/assets/img/header/768x416/{{ page.image }}');
+        }
+      }  
+      @media(min-width: 769px) {
+        header {
+          background-image: url('/assets/img/header/1024x493/{{ page.image }}');
+        }
+      } 
+      @media(min-width: 1025px) {
+        header {
+          background-image: url('/assets/img/header/1280x561/{{ page.image }}');
+        }
+      } 
+      @media(min-width: 1281px) {
+        header {
+          background-image: url('/assets/img/header/1366x587/{{ page.image }}');
+        }
+      }
+      @media(min-width: 1367px) {
+        header {
+          background-image: url('/assets/img/header/1680x681/{{ page.image }}');
+        }
+      }       
+    </style>
   </head>
-  <body>
+  <body class="{{ page.nav }}">
 
     <header>
-      <h1 class="title">{{ site.name }}</h1>
+      <h1 class="title"><a title="{{ site.name }}" href="/">{{ site.name }}</a></h1>
       <p class="subtitle"> {{ site.subhead }}</p>
+      <nav id="site-nav">
+        <ul class="clearfix">
+          <li class="blog"><a href="/">Blog</a></li><li class="about"><a href="/about">About</a></li><li class="art"><a href="/art">Art</a></li><li><a class="code" href="/code">Code</a></li>
+        </ul>
+      </nav>
     </header>
 
     <section id="main">
@@ -21,19 +62,7 @@
     </section><!--main-->
 
     <footer>
-      <div class="contact">
-        <p>
-          Your Name<br />
-          What You Are<br />
-          you@example.com
-        </p>
-      </div><!--.contact-->
-      <div class="contact">
-        <p>
-          <a href="https://github.com/yourusername">github.com/yourusername</a><br />
-          <a href="https://twitter.com/{{ site.twitter }}">twitter.com/{{ site.twitter }}</a><br />
-        </p>
-      </div><!--.contact-->
+
     </footer>
 
   </body>
