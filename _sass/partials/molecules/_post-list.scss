@@ -1,9 +1,12 @@
 #posts {
   article {
     border-bottom: 1px solid $grayaccent;
-    padding-bottom: 1em;
-    margin-bottom: 2em;
+    padding: 2em 1em 1em 1em;
     position: relative;
+    @include animate;
+    &:hover {
+      background: #fff;
+    }
     h2 {
       margin: 0;
     }
@@ -13,8 +16,11 @@
     time {
       font-size: .8em;
       position: relative;
-      top: -11px;
+      top: -20px;
       margin-left: 10px;
+    }
+    .thumbnail {
+      border-radius: 50px;
     }
   }
 }

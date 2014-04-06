@@ -14,3 +14,13 @@ $basegreen: #085B28;
 .clearfix {
   @include clearfix;
 }
+
+.float-right {
+  float:right;
+  margin-left: 1em;
+}
+
+.float-left {
+  float:left;
+  margin-right: 1em;
+}
