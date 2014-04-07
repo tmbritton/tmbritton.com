@@ -3,6 +3,9 @@ layout: post
 status: publish
 published: true
 title: Holiday Paintings Plus More
+subtitle: I did a few paintings this Christmas as presents.  I did one for each of my roommates, and one for my parents.
+image: 011010-7.jpg
+nav: blog
 author: tmbritton
 author_login: tmbritton
 author_email: britton.tm@gmail.com

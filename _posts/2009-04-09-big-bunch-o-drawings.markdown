@@ -3,6 +3,9 @@ layout: post
 status: publish
 published: true
 title: Big Bunch o' Drawings
+subtitle: Here's a bunch of stuff from the last week.  The pencil drawings are from Saturday.
+image: 040609-5.jpg
+nav: blog
 author: tmbritton
 author_login: tmbritton
 author_email: britton.tm@gmail.com

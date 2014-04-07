@@ -3,6 +3,9 @@ layout: post
 status: publish
 published: true
 title: Saturday at the AFG
+subtitle: It was one of the first Saturdays in a while that I've woken up without a hangover.
+image: 050909-1.jpg
+nav: blog
 author: tmbritton
 author_login: tmbritton
 author_email: britton.tm@gmail.com

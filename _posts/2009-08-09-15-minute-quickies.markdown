@@ -3,6 +3,9 @@ layout: post
 status: publish
 published: true
 title: 15 Minute Quickies
+subtitle: Here's some recent paintings from the AFG.  I hadn't done these quick paintings for a while.
+image: kelli-bland.jpg
+nav: blog
 author: tmbritton
 author_login: tmbritton
 author_email: britton.tm@gmail.com

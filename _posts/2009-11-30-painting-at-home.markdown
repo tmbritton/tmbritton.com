@@ -3,6 +3,9 @@ layout: post
 status: publish
 published: true
 title: Painting at Home
+subtitle: I set myself up with a painting desk at home a couple of weekends ago.  Up until now I've been doing all my paintings on the go.
+image: 112909-1.jpg
+nav: blog
 author: tmbritton
 author_login: tmbritton
 author_email: britton.tm@gmail.com

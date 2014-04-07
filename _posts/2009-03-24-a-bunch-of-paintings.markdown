@@ -3,6 +3,9 @@ layout: post
 status: publish
 published: true
 title: A Bunch of Paintings
+subtitle: I've been doing these really quick paintings from life recently.  I'll call them speed paintings, because it makes me sound like an asshole, and I like that.
+image: 032209-5.jpg
+nav: blog
 author: tmbritton
 author_login: tmbritton
 author_email: britton.tm@gmail.com

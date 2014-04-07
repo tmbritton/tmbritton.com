@@ -3,6 +3,9 @@ layout: post
 status: publish
 published: true
 title: Dr. Sketchy Watercolors
+subtitle: I took watercolors to the Dr Sketchy today.
+image: 022209-3.jpg
+nav: blog
 author: tmbritton
 author_login: tmbritton
 author_email: britton.tm@gmail.com

@@ -3,6 +3,9 @@ layout: post
 status: publish
 published: true
 title: Some Thanksgiving Day Paintings
+subtitle: I've been doing some portraits lately and I think I'm getting a much better resemblance nowadays than what I used to.
+image: the_vargas.jpg
+nav: blog
 author: tmbritton
 author_login: tmbritton
 author_email: britton.tm@gmail.com

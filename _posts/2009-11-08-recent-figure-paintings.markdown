@@ -3,6 +3,9 @@ layout: post
 status: publish
 published: true
 title: Recent Figure Paintings
+subtitle: This is the stuff that I've done over the past few weeks.  The figure stuff anyway.
+image: jamie.jpg
+nav: blog
 author: tmbritton
 author_login: tmbritton
 author_email: britton.tm@gmail.com

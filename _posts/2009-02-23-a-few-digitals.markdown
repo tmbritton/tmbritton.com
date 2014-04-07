@@ -3,6 +3,9 @@ layout: post
 status: publish
 published: true
 title: A Few Digitals
+subtitle: Here's a few digital images that I thought I should put somewhere before my hard drive crashes again and they're lost forever.
+image: 020209-2.jpg
+nav: blog
 author: tmbritton
 author_login: tmbritton
 author_email: britton.tm@gmail.com

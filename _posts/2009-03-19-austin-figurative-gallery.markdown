@@ -3,6 +3,9 @@ layout: post
 status: publish
 published: true
 title: Austin Figurative Gallery
+subtitle: I went to the Austin Figurative Gallery for the first time tonight.
+image: 031909-2.jpg
+nav: blog
 author: tmbritton
 author_login: tmbritton
 author_email: britton.tm@gmail.com

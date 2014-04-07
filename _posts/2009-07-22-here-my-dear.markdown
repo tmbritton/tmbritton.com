@@ -3,6 +3,9 @@ layout: post
 status: publish
 published: true
 title: Here, My Dear
+subtitle: Somebody once told me that Marvin Gaye named an album the same as the title of this post, after a divorce.
+image: 062809-1.jpg
+nav: blog
 author: tmbritton
 author_login: tmbritton
 author_email: britton.tm@gmail.com

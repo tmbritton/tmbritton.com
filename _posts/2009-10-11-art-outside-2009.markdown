@@ -3,6 +3,9 @@ layout: post
 status: publish
 published: true
 title: Art Outside 2009
+subtitle: Here's my display from Art Outside 2009.
+image: art-outside.jpg
+nav: blog
 author: tmbritton
 author_login: tmbritton
 author_email: britton.tm@gmail.com

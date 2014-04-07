@@ -3,6 +3,9 @@ layout: post
 status: publish
 published: true
 title: A Week of Stuff
+subtitle: Here's my drawings and paintings from the last week. This is a fair amount of shit.
+nav: blog
+image: 3paintings.jpg
 author: tmbritton
 author_login: tmbritton
 author_email: britton.tm@gmail.com

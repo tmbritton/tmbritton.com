@@ -3,6 +3,9 @@ layout: post
 status: publish
 published: true
 title: Grocery Bag Paintings
+subtitle: I started a new series of paintings.  They are called "Grocery Bag Paintings".
+image: 042609-2.jpg
+nav: blog
 author: tmbritton
 author_login: tmbritton
 author_email: britton.tm@gmail.com

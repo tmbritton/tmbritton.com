@@ -3,6 +3,9 @@ layout: post
 status: publish
 published: true
 title: More Watercolor Paintings
+subtitle: That's right kids, here's some more of that watercolor that you crave.
+image: blowing-smoke.jpg
+nav: blog
 author: tmbritton
 author_login: tmbritton
 author_email: britton.tm@gmail.com

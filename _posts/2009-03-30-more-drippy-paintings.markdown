@@ -3,6 +3,9 @@ layout: post
 status: publish
 published: true
 title: More Drippy Paintings
+subtitle: I went to the AFG tonight and brought my acrylics.
+image: 033009-5.jpg
+nav: blog
 author: tmbritton
 author_login: tmbritton
 author_email: britton.tm@gmail.com

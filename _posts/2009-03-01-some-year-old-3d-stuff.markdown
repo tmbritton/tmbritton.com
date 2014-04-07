@@ -3,6 +3,9 @@ layout: post
 status: publish
 published: true
 title: Some year old 3D stuff
+subtitle: Here's some stuff I did in Maya a year ago when I was stumping for a job.
+image: default.jpg
+nav: blog
 author: tmbritton
 author_login: tmbritton
 author_email: britton.tm@gmail.com

@@ -3,6 +3,9 @@ layout: post
 status: publish
 published: true
 title: Art of Carnivalesque
+subtitle: Last Friday was Carnivalesque.  It was a burlesque performance put on by Smoke and Mirrors Cabaret.
+image: circus-tent.jpg
+nav: blog
 author: tmbritton
 author_login: tmbritton
 author_email: britton.tm@gmail.com

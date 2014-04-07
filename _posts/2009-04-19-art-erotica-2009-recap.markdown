@@ -3,6 +3,9 @@ layout: post
 status: publish
 published: true
 title: Art Erotica 2009 Recap
+subtitle: I'd never painted in front of a crowd before.  But I was prepared.
+image: business-card.jpg
+nav: blog
 author: tmbritton
 author_login: tmbritton
 author_email: britton.tm@gmail.com

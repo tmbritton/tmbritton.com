@@ -3,6 +3,9 @@ layout: post
 status: publish
 published: true
 title: The Last of the 12 Pack Paintings
+subtitle: Submitted for your approval, the last of the 12 pack paintings.
+image: 041609-1.jpg
+nav: blog
 author: tmbritton
 author_login: tmbritton
 author_email: britton.tm@gmail.com

@@ -3,6 +3,9 @@ layout: post
 status: publish
 published: true
 title: Life Drawing Dump
+subtitle: I went about five days without drawing naked people.  Today I got back on the wagon. 
+image: 021509-6.jpg
+nav: blog
 author: tmbritton
 author_login: tmbritton
 author_email: britton.tm@gmail.com

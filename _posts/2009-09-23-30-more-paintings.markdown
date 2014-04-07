@@ -3,6 +3,9 @@ layout: post
 status: publish
 published: true
 title: 30 More Paintings
+subtitle: Here's some things I've learned about life in the last month.
+image: drea.jpg
+nav: blog
 author: tmbritton
 author_login: tmbritton
 author_email: britton.tm@gmail.com
@@ -16,7 +19,7 @@ tags: []
 comments: []
 ---
 <p>Well, I don't quite have 30 paintings to post.  I photographed 28 last night.  So, I've been doing art, just not posting it.  I've been neglecting my online presence in favor of a social life.  Here's some things I've learned about life in the last month:</p>
-<ul style="color:white;">
+<ul>
 <li>Women love duct tape pants.</li>
 <li>I find video games much less interesting than I used to.</li>
 <li>Jamba Juice is delicious.</li>
@@ -25,7 +28,7 @@ comments: []
 </ul>
 <p>Oh, I'm going to have some paintings is a charity auction, <a href="http://www.burlesqueforpeace.org/">Burlesque for Peace</a>.  I haven't picked out what I'm donating yet, but they split the proceeds with me 50/50, so I'll give them something good.  A friend of mine sold something there for $400, so maybe this could be a good thing.</p>
 <p>Here's a few things I've learned about art this month:</p>
-<ul style="color:white;">
+<ul>
 <li>Use prismacolor colored pencils for underdrawing.  Because it's waxy, it doesn't mix with paint.</li>
 <li>Bruce Lee quotes about Kung Fu apply 100% to painting.  " <span class="body">The less effort, the faster and more powerful you will be.</span>"</li>
 <li>Home Depot sells the best paintings surfaces.</li>

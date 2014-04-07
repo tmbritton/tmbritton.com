@@ -3,6 +3,9 @@ layout: post
 status: publish
 published: true
 title: Naked People Extravaganza
+subtitle: That's right kids, it's time for another epic post of naked folk.
+image: better-than-tv.jpg
+nav: blog
 author: tmbritton
 author_login: tmbritton
 author_email: britton.tm@gmail.com

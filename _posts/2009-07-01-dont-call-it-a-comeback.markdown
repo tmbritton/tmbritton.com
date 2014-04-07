@@ -3,6 +3,9 @@ layout: post
 status: publish
 published: true
 title: Don't Call it a Comeback
+subtitle: I've continued the acrylic paintings and drawing sessions. Here it is.
+image: image-montage.jpg
+nav: blog
 author: tmbritton
 author_login: tmbritton
 author_email: britton.tm@gmail.com

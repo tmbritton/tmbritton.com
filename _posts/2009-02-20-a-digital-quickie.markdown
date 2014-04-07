@@ -3,6 +3,9 @@ layout: post
 status: publish
 published: true
 title: A Digital Quickie
+subtitle: Now I'm off to watch a beard and moustache competition.
+image: 022009-1.jpg
+nav: blog
 author: tmbritton
 author_login: tmbritton
 author_email: britton.tm@gmail.com

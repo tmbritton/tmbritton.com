@@ -3,6 +3,9 @@ layout: post
 status: publish
 published: true
 title: Drawings From the Last Couple of Days
+subtitle: I went to the AVAA for the first time in quite a while today.
+image: 062410-1.jpg
+nav: blog
 author: tmbritton
 author_login: tmbritton
 author_email: britton.tm@gmail.com

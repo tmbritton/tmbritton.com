@@ -3,6 +3,9 @@ layout: post
 status: publish
 published: true
 title: Drawing Cocks
+subtitle: A cock is far more obvious in it's absense.
+image: drawing-cocks.jpg
+nav: blog
 author: tmbritton
 author_login: tmbritton
 author_email: britton.tm@gmail.com

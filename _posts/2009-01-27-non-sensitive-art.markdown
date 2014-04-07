@@ -3,6 +3,9 @@ layout: post
 status: publish
 published: true
 title: Non-sensitive art
+subtitle: With all my lovely drawing of naked ladies I wouldn't want anybody to think that I'd forgotten my roots
+image: dark-soldiers.jpg
+nav: blog
 author: tmbritton
 author_login: tmbritton
 author_email: britton.tm@gmail.com

@@ -3,6 +3,9 @@ layout: post
 status: publish
 published: true
 title: More Figure Drawings and a Painting
+subtitle: Every third Monday we've started to do 2 hour poses instead of a bunch of 15 minute ones.  It's nice to have the extra time.
+image: 042109-1.jpg
+nav: blog
 author: tmbritton
 author_login: tmbritton
 author_email: britton.tm@gmail.com
