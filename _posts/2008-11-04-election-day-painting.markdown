@@ -3,6 +3,9 @@ layout: post
 status: publish
 published: true
 title: Election Day Painting
+subtitle: "Obama won the election and I finished a painting. It's been a pretty good day for America."
+image: harlequin.jpg
+nav: blog
 author: tmbritton
 author_login: tmbritton
 author_email: britton.tm@gmail.com

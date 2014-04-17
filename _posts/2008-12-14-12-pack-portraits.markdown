@@ -3,6 +3,9 @@ layout: post
 status: publish
 published: true
 title: 12 Pack Portraits
+subtitle: "If you look at the big versions of these, you'll see how scumbly they are."
+image: 12-pack-paintings.jpg
+nav: blog
 author: tmbritton
 author_login: tmbritton
 author_email: britton.tm@gmail.com

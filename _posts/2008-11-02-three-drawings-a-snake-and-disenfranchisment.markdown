@@ -3,6 +3,9 @@ layout: post
 status: publish
 published: true
 title: Three Drawings, a Snake, and Disenfranchisment
+subtitle: I found a toned sketchbook like I was talking about in my last post.
+image: 110208-2.jpg
+nav: blog
 author: tmbritton
 author_login: tmbritton
 author_email: britton.tm@gmail.com

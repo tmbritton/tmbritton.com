@@ -3,6 +3,9 @@ layout: post
 status: publish
 published: true
 title: Monochrome Paintings
+subtitle: "I've been reading Richard Schmid's book ALLA PRIMA Everything I Know About Painting recently.  In it he suggests monochrome paintings as a way to get used to the brush."
+image: monochrome-paintings.jpg
+nav: blog
 author: tmbritton
 author_login: tmbritton
 author_email: britton.tm@gmail.com

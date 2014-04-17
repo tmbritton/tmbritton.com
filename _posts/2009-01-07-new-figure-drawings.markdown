@@ -3,6 +3,9 @@ layout: post
 status: publish
 published: true
 title: New Figure Drawings
+subtitle: "I felt a bit rusty, but by the end of the night I'd worked out the kinks and came up with a couple that I'm not embarrassed to show."
+image: new-figure-drawings.jpg
+nav: blog
 author: tmbritton
 author_login: tmbritton
 author_email: britton.tm@gmail.com

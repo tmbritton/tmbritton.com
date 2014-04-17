@@ -3,6 +3,9 @@ layout: post
 status: publish
 published: true
 title: Industrial Design
+subtitle: "I did this one because I rarely draw anything mechanical."
+nav: blog
+image: pipes.jpg
 author: tmbritton
 author_login: tmbritton
 author_email: britton.tm@gmail.com

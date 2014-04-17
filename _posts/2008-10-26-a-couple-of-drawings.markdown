@@ -3,6 +3,9 @@ layout: post
 status: publish
 published: true
 title: A Couple of Drawings
+subtitle: "Here's a couple of drawings that I did this afternoon at the life drawing session at the AVAA"
+image: 102608-2.jpg
+nav: blog
 author: tmbritton
 author_login: tmbritton
 author_email: britton.tm@gmail.com

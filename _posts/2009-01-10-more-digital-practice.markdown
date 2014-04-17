@@ -3,6 +3,9 @@ layout: post
 status: publish
 published: true
 title: More Digital Practice
+subtitle: I always try to write these posts late at night after drawing when I'm tired.
+nav: blog
+image: 011009-1.jpg
 author: tmbritton
 author_login: tmbritton
 author_email: britton.tm@gmail.com

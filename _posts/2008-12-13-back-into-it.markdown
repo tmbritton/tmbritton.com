@@ -3,6 +3,9 @@ layout: post
 status: publish
 published: true
 title: Back into it
+subtitle: "Last weekend I got back into the drawing sessions after missing a couple of week due to holiday traveling."
+image: 121308-7.jpg
+nav: blog
 author: tmbritton
 author_login: tmbritton
 author_email: britton.tm@gmail.com

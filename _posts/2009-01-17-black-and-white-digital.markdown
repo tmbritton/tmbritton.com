@@ -3,6 +3,9 @@ layout: post
 status: publish
 published: true
 title: Black and White Digital
+subtitle: "Here's a few black and white digital images from photo reference."
+nav: blog
+image: oldman.jpg
 author: tmbritton
 author_login: tmbritton
 author_email: britton.tm@gmail.com

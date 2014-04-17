@@ -3,6 +3,9 @@ layout: post
 status: publish
 published: true
 title: Naked-Peoplepalooza
+subtitle: I did a lot of figure drawing the last two days.
+image: 011809-7.jpg
+nav: blog
 author: tmbritton
 author_login: tmbritton
 author_email: britton.tm@gmail.com

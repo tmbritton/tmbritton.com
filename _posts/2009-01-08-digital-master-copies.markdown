@@ -3,6 +3,9 @@ layout: post
 status: publish
 published: true
 title: Digital Master Copies
+subtitle: "Here's a couple of digital master copies that I've done the last two nights.  I worked on these probably a couple of hours each."
+image: michelangelo.jpg
+nav: blog
 author: tmbritton
 author_login: tmbritton
 author_email: britton.tm@gmail.com

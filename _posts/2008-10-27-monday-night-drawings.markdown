@@ -3,6 +3,9 @@ layout: post
 status: publish
 published: true
 title: Monday Night Drawings
+subtitle: "Sundays and Mondays I go to figure drawing sessions."
+nav: blog
+image: 102708-1.jpg
 author: tmbritton
 author_login: tmbritton
 author_email: britton.tm@gmail.com

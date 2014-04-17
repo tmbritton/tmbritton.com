@@ -3,6 +3,9 @@ layout: post
 status: publish
 published: true
 title: Look... A Landscape!
+subtitle: "Here's a landscape. Took about two hours in Painter and Photoshop."
+nav: blog
+image: landscape.jpg
 author: tmbritton
 author_login: tmbritton
 author_email: britton.tm@gmail.com

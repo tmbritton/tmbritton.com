@@ -3,6 +3,9 @@ layout: post
 status: publish
 published: true
 title: It's finally done!
+subtitle: "This site, tmbritton.com, is finally ready to launch!"
+image: 092808-13.jpg
+nav: blog
 author: tmbritton
 author_login: tmbritton
 author_email: britton.tm@gmail.com

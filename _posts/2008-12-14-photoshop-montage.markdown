@@ -3,6 +3,9 @@ layout: post
 status: publish
 published: true
 title: Photoshop Montage
+subtitle: "I did this yesterday, just messing around in Photoshop with images from free CG texture sites."
+image: photoshop-montage.jpg
+nav: blog
 author: tmbritton
 author_login: tmbritton
 author_email: britton.tm@gmail.com

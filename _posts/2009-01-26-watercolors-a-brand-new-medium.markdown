@@ -3,6 +3,8 @@ layout: post
 status: publish
 published: true
 title: Watercolors- A Brand New Medium
+image: 012909-5.jpg
+nav: blog
 author: tmbritton
 author_login: tmbritton
 author_email: britton.tm@gmail.com

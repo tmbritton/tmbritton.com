@@ -3,6 +3,9 @@ layout: post
 status: publish
 published: true
 title: Four Portraits
+subtitle: "The model didn't show up to the figure drawing session tonight, but it turned out pretty cool anyway.  Artists posed and I did some portraits of people I've been drawing with for a while."
+image: 110308-4.jpg
+nav: blog
 author: tmbritton
 author_login: tmbritton
 author_email: britton.tm@gmail.com

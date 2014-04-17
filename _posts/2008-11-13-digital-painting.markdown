@@ -3,6 +3,9 @@ layout: post
 status: publish
 published: true
 title: Digital Painting
+subtitle: I was messing around with Photoshop tonight, playing around with some brushes, and this is what I came up with.
+image: bug-head.jpg
+nav: blog
 author: tmbritton
 author_login: tmbritton
 author_email: britton.tm@gmail.com
