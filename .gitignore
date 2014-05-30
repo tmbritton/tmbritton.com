@@ -4,3 +4,4 @@ _site
 .sass-cache
 *.map
 .minimagick-cache
+deploy.sh

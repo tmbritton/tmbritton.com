@@ -68,3 +68,4 @@ exclude:
   - "*.map"
   - "*.swp"
   - "README.md"
+  - "deploy.sh"
