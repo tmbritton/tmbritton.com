@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Paintings on 12" Record Album Covers
+title: Paintings on 12 inch Record Album Covers
 subtitle: "Now I've come up with something a bit different."
 image: peewee.jpg
 nav: blog

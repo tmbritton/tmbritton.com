@@ -1,0 +1,18 @@
+---
+layout: none
+---
+{
+  "posts" : [
+    {% for post in site.posts %}
+      [
+        "{{ post.url }}",
+        "{{ post.title }}",
+        "{{ post.subtitle }}",
+        "{{ post.image }}",
+        "{{ post.date | date_to_long_string }}"
+
+
+      ]{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ]
+}

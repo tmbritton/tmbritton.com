@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: Sky Candy Website
-subtitle: "I finished up a freelance website a couple of weeks ago.  I made a custom Wordpress template for the lovely ladies at Sky Candy."
+subtitle: "I finished up a freelance website a couple of weeks ago. I made a custom Wordpress template for the lovely ladies at Sky Candy."
 author: tmbritton
 author_login: tmbritton
 author_email: britton.tm@gmail.com

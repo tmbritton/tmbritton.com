@@ -1,6 +1,9 @@
 name: Thomas Britton                              
 subhead: "Artist/Coder, Austin, TX"
 description: "Blog, portifolio, art, and items of general interest that Thomas Britton wishes to be known about himself."
+url: http://tmbritton.com
+paginate: 5
+paginate_path: "page:num"
 markdown: redcarpet
 pygments: true
 permalink: /blog/:title.html
