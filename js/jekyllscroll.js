@@ -28,7 +28,6 @@
           getPosts();
           hidePagination();
           window.onscroll = function() {
-            console.log(window.innerHeight);
             var position = $('body').height() - window.pageYOffset;
             if (position - window.innerHeight <= 100) {
               writePosts();
