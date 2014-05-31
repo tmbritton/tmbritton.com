@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: list
 title: Blog
 nav: blog
 image: reclining-lady.jpg
@@ -26,6 +26,24 @@ sitemap:
         <time datetime="{{ post.date }}">{{ post.date | date_to_long_string }}</time>
       </article>
     {% endfor %}
+ 
+  <!-- Handlebars Template -->
+   <script id="blog-posts" type="text/x-handlebars-template">
+    {% raw %}
+      <article>
+        <h2>
+          <a href="{{ url }}">{{ title }}</a>
+        </h2>
+        <p class="subtitle">{{ subtitle }}</p>
+        <a class="imglink" href="{{ url }}">
+          <img class="thumbnail" src="/assets/img/header/thumbnail/{{ image }}" alt="{{ title }}" />
+        </a>
+        <time datetime="{{ date }}">{{ date }}</time>
+      </article>
+    {% endraw %}
+  </script>
+  <!-- End Handlebars Template -->
+
   </div>
 </div>
 
