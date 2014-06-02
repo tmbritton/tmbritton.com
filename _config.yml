@@ -62,6 +62,12 @@ retinamagick:
     resize: "1680x681^"
     gravity: "center"
     extent: "1680x681"
+  facebook:
+    source: assets/img/header/_original
+    destination: assets/img/facebook
+    resize: "600x600^"
+    gravity: "center"
+    extent: "600x600" 
 exclude:
   - "bin"
   - "*.rb"
