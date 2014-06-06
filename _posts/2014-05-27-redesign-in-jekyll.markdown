@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "tmbritton.com redesigned in Jekyll!"
+title: "tmbritton.com redesigned in Jekyll!"
 subtitle: "Of ruby, front matter, and a general comparison of a couple of static site generators I tried."
-date:   2014-03-11 23:12:00
+date: {}
 nav: blog
 categories: blog
 image: default.jpg
 published: true
 ---
 
-Sometime around performing the 50th core/plugin update on my [Wordpress] blog I began to grow weary. Then I stopped updating my website. Before doing any writing or coding or anything there were always maintenance issues to address. [Wordpress] was great for learning some [PHP]. It was certainly a great springboard for what I do nowadays in [Drupal], but I figured there must be a better way for me to run a website.
+Sometime around performing the 52nd core/plugin update on my [Wordpress] blog I began to grow weary. Then I stopped updating my website. Before doing any writing or coding or anything there were always maintenance issues to address. [Wordpress] was great for learning some [PHP]. It was certainly a great springboard for what I do nowadays in [Drupal], but I figured there must be a better way for me to run a website.
 
 First of all, as a web developer why would I ever want to see a rich text editor? I want to be able to update my site using nothing but the command line. And now I can. I redesigned the website in [Jekyll]. 
 
